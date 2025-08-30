@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Admin Dashboard{% endblock %}
+{% block content %}
+<div class="grid-2">
+  <div class="card stat">
+    <div class="stat-number">{{ vocab_count }}</div>
+    <div class="stat-label">Words in Bank</div>
+    <a class="btn small" href="{{ url_for('admin_vocab') }}">Manage Words</a>
+  </div>
+  <div class="card stat">
+    <div class="stat-number">{{ attempts }}</div>
+    <div class="stat-label">User Attempts</div>
+    <a class="btn small" href="{{ url_for('admin_results') }}">View Results</a>
+  </div>
+</div>
+<div class="card">
+  <h3>Bulk Add (up to ~50 at once)</h3>
+  <p>Format: <code>Put (v.) – রাখা</code>. Accepts <code>-</code>, <code>–</code>, <code>—</code> as separators.</p>
+  <a class="btn" href="{{ url_for('admin_bulk') }}">Open Bulk Import</a>
+</div>
+{% endblock %}

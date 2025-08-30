@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Manage Vocabulary{% endblock %}
+{% block content %}
+<div class="card">
+  <h2>Add Single Word</h2>
+  <form method="post" class="row gap">
+    <label>English Word
+      <input type="text" name="word" required>
+    </label>
+    <label>Part of Speech
+      <input type="text" name="pos" placeholder="e.g., v. / noun / adj.">
+    </label>
+    <label>Bangla Meaning
+      <input type="text" name="meaning" required>
+    </label>
+    <button class="btn" type="submit">Add</button>
+    <a class="btn secondary" href="{{ url_for('admin_bulk') }}">Bulk Import</a>
+  </form>
+</div>
+
+<div class="card">
+  <h2>All Words ({{ vocab|length }})</h2>
+  <div class="table-wrap">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th><th>Word</th><th>POS</th><th>Meaning (Bangla)</th><th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for v in vocab %}
+        <tr>
+          <td>{{ v.id }}</td>
+          <td>
+            <form method="post" action="{{ url_for('admin_vocab_update', item_id=v.id) }}" class="row row-compact">
+              <input type="text" name="word" value="{{ v.word }}">
+          </td>
+          <td><input type="text" name="pos" value="{{ v.pos }}"></td>
+          <td><input type="text" name="meaning" value="{{ v.meaning }}"></td>
+          <td class="row row-compact">
+              <button class="btn small" type="submit">Save</button>
+            </form>
+            <form method="post" action="{{ url_for('admin_vocab_delete', item_id=v.id) }}">
+              <button class="btn danger small" type="submit" onclick="return confirm('Delete this word?')">Delete</button>
+            </form>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Exam Result{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2>Exam Result - {{ rec.name }}</h2>
+  <p>Score: {{ rec.score }} / {{ rec.total_questions }}</p>
+  <p>Correct Words: {{ rec.correct_word }} | Correct POS: {{ rec.correct_pos }}</p>
+
+  <h4>Question Details:</h4>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Word</th>
+        <th>POS</th>
+        <th>Meaning</th>
+        <th>Your Word</th>
+        <th>Your POS</th>
+        <th>Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in rec['items'] %}
+      <tr>
+        <td>{{ loop.index }}</td>
+        <td style="color: rgb(0, 198, 253);">{{ item.word }}</u></td>
+        <td style="color: rgb(0, 198, 253);">{{ item.pos }}</td>
+        <td>{{ item.meaning }}</td>
+        <td>{{ item.user_word }}</td>
+        <td>{{ item.user_pos }}</td>
+        <td>
+          {% if item.is_word_correct and item.is_pos_correct %}
+            <span style="color:rgb(0, 228, 0);">✅ Both correct</span>
+          {% elif item.is_word_correct %}
+            <span style="color:rgb(229, 99, 0);">✅ Word correct</span>
+          {% elif item.is_pos_correct %}
+            <span style="color:rgb(227, 147, 0);">✅ POS correct</span>
+          {% else %}
+            <span style="color:red;">❌ Wrong</span>
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <a href="{{ url_for('admin_results') }}" class="btn btn-secondary mt-3">Back to All Results</a>
+</div>
+{% endblock %}

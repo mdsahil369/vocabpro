@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Start Learning{% endblock %}
+{% block content %}
+<div class="card w-700">
+  <h2>Start 03‑Minute Exam</h2>
+  <form method="post" class="row gap">
+    <label>Your Name
+      <input type="text" name="name" placeholder="Enter your name" required  autocomplete="off">
+    </label>
+    <button class="btn" type="submit" style="margin-top: 25px;">Start</button>
+  </form>
+  <p class="muted">Each question shows a Bangla meaning. Type the English word and its Part of Speech. Each correct is 0.5 marks.</p>
+</div>
+{% endblock %}

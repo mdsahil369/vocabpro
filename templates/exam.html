@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+  <h2>Vocabulary Exam</h2>
+  <p>Time Left: <span id="timer">12:00</span></p>
+
+  <div id="question-box">
+    <h4 id="bangla-word">Loading...</h4>
+    <label>English:</label>
+    <input type="text" id="english" class="form-control">
+    <label>Part of Speech:</label>
+    <input type="text" id="pos" class="form-control">
+    <button type="button" id="next-btn" class="btn btn-primary mt-2">Next</button>
+    <button type="button" id="skip-btn" class="btn btn-secondary mt-2">Skip</button>
+  </div>
+
+  <div id="result-box" style="display:none;">
+    <h3>Exam Finished</h3>
+    <p id="result-text"></p>
+    <a href="/" class="btn btn-success">Go Home</a>
+  </div>
+</div>
+
+<script>
+let questions = [];
+let current = 0;
+let answers = {};
+let timeLeft = 12*60; // 12 mins
+let timerInterval;
+
+function startTimer() {
+    timerInterval = setInterval(() => {
+        let min = Math.floor(timeLeft/60);
+        let sec = timeLeft % 60;
+        document.getElementById("timer").textContent = `${min}:${sec.toString().padStart(2,"0")}`;
+        timeLeft--;
+        if (timeLeft < 0) {
+            clearInterval(timerInterval);
+            finishExam();
+        }
+    }, 1000);
+}
+
+function showQuestion() {
+    if(current >= questions.length) return finishExam();
+    let q = questions[current];
+    document.getElementById("bangla-word").textContent = q.meaning;
+    document.getElementById("english").value = "";
+    document.getElementById("pos").value = "";
+}
+
+function saveAnswer() {
+    answers[current] = {
+        english: document.getElementById("english").value.trim(),
+        pos: document.getElementById("pos").value.trim()
+    };
+}
+
+document.getElementById("next-btn").addEventListener("click", ()=>{
+    saveAnswer();
+    current++;
+    showQuestion();
+});
+document.getElementById("skip-btn").addEventListener("click", ()=>{
+    current++;
+    showQuestion();
+});
+
+function finishExam() {
+    clearInterval(timerInterval);
+    document.getElementById("question-box").style.display = "none";
+    fetch("/submit_exam", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({answers: answers})
+    }).then(res=>res.json()).then(data=>{
+        document.getElementById("result-box").style.display="block";
+        document.getElementById("result-text").textContent = `Your score: ${data.score} / ${data.total}`;
+    });
+}
+
+// Load questions from server
+fetch("/get_questions").then(res=>res.json()).then(data=>{
+    questions = data.questions;
+    startTimer();
+    showQuestion();
+});
+</script>
+{% endblock %}

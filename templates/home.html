@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Home | Vocabulary App{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-card">
+    <h1>Build Your Vocabulary</h1>
+    <p>Admin: manage words & monitor progress. User: take a 12‑minute quiz — type the English word and its part of speech for each Bangla meaning.</p>
+    <div class="cta-row">
+      <a class="btn" href="{{ url_for('learn_start') }}">Start Learning</a>
+      <a class="btn secondary" href="{{ url_for('admin_login') }}">Admin Login</a>
+    </div>
+  </div>
+</section>
+{% endblock %}

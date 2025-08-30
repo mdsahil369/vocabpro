@@ -1,0 +1,2210 @@
+[
+  {
+    "id": 1756473676070,
+    "name": "Md Sahil Hossain",
+    "started_at": "2025-08-29T13:18:14.809840+00:00",
+    "score": 12.5,
+    "total_questions": 22,
+    "correct_word": 13,
+    "correct_pos": 12,
+    "items": [
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Effect",
+        "pos": "n.",
+        "meaning": "প্রভাব",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "build",
+        "user_pos": "v.",
+        "word": "Build",
+        "pos": "v.",
+        "meaning": "গঠন করা / বানানো",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "start",
+        "user_pos": "v.",
+        "word": "Begin",
+        "pos": "v.",
+        "meaning": "শুরু করা",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "put",
+        "user_pos": "v.",
+        "word": "Keep",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "justis",
+        "user_pos": "adj.",
+        "word": "Justice",
+        "pos": "n.",
+        "meaning": "ন্যায়বিচার",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "solve",
+        "user_pos": "v.",
+        "word": "Solve",
+        "pos": "v.",
+        "meaning": "সমাধান করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "stund",
+        "user_pos": "v.",
+        "word": "Stand",
+        "pos": "v.",
+        "meaning": "দাঁড়ানো",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "say",
+        "user_pos": "v.",
+        "word": "Say",
+        "pos": "v.",
+        "meaning": "বলা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Break",
+        "pos": "v.",
+        "meaning": "ভাঙা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "write",
+        "user_pos": "v.",
+        "word": "Write",
+        "pos": "v.",
+        "meaning": "লেখা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Enjoy",
+        "pos": "v.",
+        "meaning": "উপভোগ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "truth",
+        "user_pos": "adj.",
+        "word": "Truth",
+        "pos": "n.",
+        "meaning": "সত্য",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "run",
+        "user_pos": "v.",
+        "word": "Run",
+        "pos": "v.",
+        "meaning": "দৌড়ানো / পরিচালনা করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "help",
+        "user_pos": "v.",
+        "word": "Help",
+        "pos": "n./v.",
+        "meaning": "সাহায্য / সাহায্য করা",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Hold",
+        "pos": "v.",
+        "meaning": "ধরা / ধরে রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "ask",
+        "user_pos": "v.",
+        "word": "Ask",
+        "pos": "v.",
+        "meaning": "জিজ্ঞাসা করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "learn",
+        "user_pos": "v.",
+        "word": "Learn",
+        "pos": "v.",
+        "meaning": "শেখা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "drink",
+        "user_pos": "v.",
+        "word": "Drink",
+        "pos": "v./n.",
+        "meaning": "পান করা / পানীয়",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "cut",
+        "user_pos": "v.",
+        "word": "Cut",
+        "pos": "v.",
+        "meaning": "কাটা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Improve",
+        "pos": "v.",
+        "meaning": "উন্নতি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "ambition",
+        "user_pos": "n.",
+        "word": "Ambition",
+        "pos": "n.",
+        "meaning": "উচ্চাকাঙ্ক্ষা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "polite",
+        "user_pos": "n.",
+        "word": "Polite",
+        "pos": "adj.",
+        "meaning": "ভদ্র",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      }
+    ],
+    "timestamp": "2025-08-29T13:21:16.070734+00:00"
+  },
+  {
+    "id": 1756514350285,
+    "name": "Md Sahil 01",
+    "started_at": "2025-08-30T00:36:09.024673+00:00",
+    "score": 10.5,
+    "total_questions": 18,
+    "correct_word": 11,
+    "correct_pos": 10,
+    "items": [
+      {
+        "user_word": "success",
+        "user_pos": "v.",
+        "word": "Success",
+        "pos": "n.",
+        "meaning": "সফলতা",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "drink",
+        "user_pos": "v.",
+        "word": "Drink",
+        "pos": "v./n.",
+        "meaning": "পান করা / পানীয়",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "solve",
+        "user_pos": "v.",
+        "word": "Solve",
+        "pos": "v.",
+        "meaning": "সমাধান করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "finish",
+        "user_pos": "v.",
+        "word": "End",
+        "pos": "n./v.",
+        "meaning": "শেষ / সমাপ্ত করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "develop",
+        "user_pos": "v.",
+        "word": "Develop",
+        "pos": "v.",
+        "meaning": "উন্নয়ন করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "habit",
+        "user_pos": "n.",
+        "word": "Habit",
+        "pos": "n.",
+        "meaning": "অভ্যাস",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "get",
+        "user_pos": "v.",
+        "word": "Get",
+        "pos": "v.",
+        "meaning": "পাওয়া",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "keep",
+        "user_pos": "v.",
+        "word": "Put",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "love",
+        "user_pos": "n.",
+        "word": "Love",
+        "pos": "n./v.",
+        "meaning": "ভালবাসা",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "listen",
+        "user_pos": "adj.",
+        "word": "Listen",
+        "pos": "v.",
+        "meaning": "শোনা",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "drive",
+        "user_pos": "v.",
+        "word": "Drive",
+        "pos": "v.",
+        "meaning": "গাড়ি চালানো",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Argue",
+        "pos": "v.",
+        "meaning": "তর্ক করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "lughf",
+        "user_pos": "adj.",
+        "word": "Laugh",
+        "pos": "v./n.",
+        "meaning": "হাসা / হাসি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "come",
+        "user_pos": "v.",
+        "word": "Come",
+        "pos": "v.",
+        "meaning": "আসা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "achive",
+        "user_pos": "v.",
+        "word": "Achieve",
+        "pos": "v.",
+        "meaning": "অর্জন করা",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Opportunity",
+        "pos": "n.",
+        "meaning": "সুযোগ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "stund",
+        "user_pos": "v.",
+        "word": "Stand",
+        "pos": "v.",
+        "meaning": "দাঁড়ানো",
+        "is_word_correct": false,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "friendship",
+        "user_pos": "n.",
+        "word": "Friendship",
+        "pos": "n.",
+        "meaning": "বন্ধুত্ব",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      }
+    ],
+    "timestamp": "2025-08-30T00:39:10.285777+00:00"
+  },
+  {
+    "id": 1756514569895,
+    "name": "Md Sahil 01",
+    "started_at": "2025-08-30T00:36:09.024673+00:00",
+    "score": 3.0,
+    "total_questions": 100,
+    "correct_word": 4,
+    "correct_pos": 2,
+    "items": [
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Comfort",
+        "pos": "n.",
+        "meaning": "আরাম",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Decision",
+        "pos": "n.",
+        "meaning": "সিদ্ধান্ত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Close",
+        "pos": "v./adj.",
+        "meaning": "বন্ধ করা / নিকটবর্তী",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Catch",
+        "pos": "v.",
+        "meaning": "ধরা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Help",
+        "pos": "n./v.",
+        "meaning": "সাহায্য / সাহায্য করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Call",
+        "pos": "v.",
+        "meaning": "ডাকা / ফোন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Necessary",
+        "pos": "adj.",
+        "meaning": "প্রয়োজনীয়",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Send",
+        "pos": "v.",
+        "meaning": "পাঠানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Hold",
+        "pos": "v.",
+        "meaning": "ধরা / ধরে রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Environment",
+        "pos": "n.",
+        "meaning": "পরিবেশ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Read",
+        "pos": "v.",
+        "meaning": "পড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Appear",
+        "pos": "v.",
+        "meaning": "প্রকাশিত হওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Accept",
+        "pos": "v.",
+        "meaning": "গ্রহণ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Write",
+        "pos": "v.",
+        "meaning": "লেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Leave",
+        "pos": "v.",
+        "meaning": "চলে যাওয়া / ফেলে যাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Increase",
+        "pos": "v.",
+        "meaning": "বৃদ্ধি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Truth",
+        "pos": "n.",
+        "meaning": "সত্য",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Develop",
+        "pos": "v.",
+        "meaning": "উন্নয়ন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Answer",
+        "pos": "n./v.",
+        "meaning": "উত্তর / উত্তর দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Cause",
+        "pos": "n.",
+        "meaning": "কারণ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Begin",
+        "pos": "v.",
+        "meaning": "শুরু করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Get",
+        "pos": "v.",
+        "meaning": "পাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Find",
+        "pos": "v.",
+        "meaning": "খুঁজে পাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Break",
+        "pos": "v.",
+        "meaning": "ভাঙা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Freedom",
+        "pos": "n.",
+        "meaning": "স্বাধীনতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Advice",
+        "pos": "n.",
+        "meaning": "উপদেশ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Forget",
+        "pos": "v.",
+        "meaning": "ভুলে যাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Sit",
+        "pos": "v.",
+        "meaning": "বসা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Learn",
+        "pos": "v.",
+        "meaning": "শেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Journey",
+        "pos": "n.",
+        "meaning": "যাত্রা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Justice",
+        "pos": "n.",
+        "meaning": "ন্যায়বিচার",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Finish",
+        "pos": "v.",
+        "meaning": "শেষ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Honest",
+        "pos": "adj.",
+        "meaning": "সৎ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Achieve",
+        "pos": "v.",
+        "meaning": "অর্জন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "drive",
+        "user_pos": "n.",
+        "word": "Drive",
+        "pos": "v.",
+        "meaning": "গাড়ি চালানো",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "go",
+        "user_pos": "v.",
+        "word": "Go",
+        "pos": "v.",
+        "meaning": "যাওয়া",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "love",
+        "user_pos": "n.",
+        "word": "Love",
+        "pos": "n./v.",
+        "meaning": "ভালবাসা",
+        "is_word_correct": true,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "run",
+        "user_pos": "v.",
+        "word": "Run",
+        "pos": "v.",
+        "meaning": "দৌড়ানো / পরিচালনা করা",
+        "is_word_correct": true,
+        "is_pos_correct": true
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Success",
+        "pos": "n.",
+        "meaning": "সফলতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Benefit",
+        "pos": "n.",
+        "meaning": "উপকার",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Add",
+        "pos": "v.",
+        "meaning": "যোগ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Buy",
+        "pos": "v.",
+        "meaning": "কেনা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Discover",
+        "pos": "v.",
+        "meaning": "আবিষ্কার করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Drink",
+        "pos": "v./n.",
+        "meaning": "পান করা / পানীয়",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Listen",
+        "pos": "v.",
+        "meaning": "শোনা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Clean",
+        "pos": "adj./v.",
+        "meaning": "পরিষ্কার / পরিষ্কার করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Give",
+        "pos": "v.",
+        "meaning": "দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Effect",
+        "pos": "n.",
+        "meaning": "প্রভাব",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Laugh",
+        "pos": "v./n.",
+        "meaning": "হাসা / হাসি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Important",
+        "pos": "adj.",
+        "meaning": "গুরুত্বপূর্ণ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Knowledge",
+        "pos": "n.",
+        "meaning": "জ্ঞান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Stand",
+        "pos": "v.",
+        "meaning": "দাঁড়ানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Come",
+        "pos": "v.",
+        "meaning": "আসা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Put",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Ambition",
+        "pos": "n.",
+        "meaning": "উচ্চাকাঙ্ক্ষা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Move",
+        "pos": "v.",
+        "meaning": "নড়াচড়া করা / সরানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Build",
+        "pos": "v.",
+        "meaning": "গঠন করা / বানানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Open",
+        "pos": "v./adj.",
+        "meaning": "খোলা / খোলা রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Choose",
+        "pos": "v.",
+        "meaning": "বেছে নেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Solve",
+        "pos": "v.",
+        "meaning": "সমাধান করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Compare",
+        "pos": "v.",
+        "meaning": "তুলনা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Challenge",
+        "pos": "n.",
+        "meaning": "চ্যালেঞ্জ / বাধা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Meet",
+        "pos": "v.",
+        "meaning": "দেখা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Create",
+        "pos": "v.",
+        "meaning": "সৃষ্টি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Say",
+        "pos": "v.",
+        "meaning": "বলা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Improve",
+        "pos": "v.",
+        "meaning": "উন্নতি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Proud",
+        "pos": "adj.",
+        "meaning": "গর্বিত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Believe",
+        "pos": "v.",
+        "meaning": "বিশ্বাস করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Grow",
+        "pos": "v.",
+        "meaning": "বৃদ্ধি পাওয়া / বাড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Explain",
+        "pos": "v.",
+        "meaning": "ব্যাখ্যা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "End",
+        "pos": "n./v.",
+        "meaning": "শেষ / সমাপ্ত করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Essential",
+        "pos": "adj.",
+        "meaning": "অত্যাবশ্যক",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Hope",
+        "pos": "n./v.",
+        "meaning": "আশা / আশা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Brave",
+        "pos": "adj.",
+        "meaning": "সাহসী",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Arrange",
+        "pos": "v.",
+        "meaning": "ব্যবস্থা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Act",
+        "pos": "v.",
+        "meaning": "কাজ করা / অভিনয় করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Polite",
+        "pos": "adj.",
+        "meaning": "ভদ্র",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Lose",
+        "pos": "v.",
+        "meaning": "হারানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "See",
+        "pos": "v.",
+        "meaning": "দেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Educate",
+        "pos": "v.",
+        "meaning": "শিক্ষা দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Argue",
+        "pos": "v.",
+        "meaning": "তর্ক করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Respect",
+        "pos": "n./v.",
+        "meaning": "সম্মান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Manage",
+        "pos": "v.",
+        "meaning": "পরিচালনা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Opportunity",
+        "pos": "n.",
+        "meaning": "সুযোগ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Lucky",
+        "pos": "adj.",
+        "meaning": "ভাগ্যবান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Allow",
+        "pos": "v.",
+        "meaning": "অনুমতি দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Keep",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Know",
+        "pos": "v.",
+        "meaning": "জানা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Play",
+        "pos": "v./n.",
+        "meaning": "খেলা / নাটক",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Famous",
+        "pos": "adj.",
+        "meaning": "বিখ্যাত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Eat",
+        "pos": "v.",
+        "meaning": "খাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Ask",
+        "pos": "v.",
+        "meaning": "জিজ্ঞাসা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Cut",
+        "pos": "v.",
+        "meaning": "কাটা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Habit",
+        "pos": "n.",
+        "meaning": "অভ্যাস",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Fall",
+        "pos": "v.",
+        "meaning": "পড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Experience",
+        "pos": "n.",
+        "meaning": "অভিজ্ঞতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Enjoy",
+        "pos": "v.",
+        "meaning": "উপভোগ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Friendship",
+        "pos": "n.",
+        "meaning": "বন্ধুত্ব",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Culture",
+        "pos": "n.",
+        "meaning": "সংস্কৃতি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Peace",
+        "pos": "n.",
+        "meaning": "শান্তি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      }
+    ],
+    "timestamp": "2025-08-30T00:42:49.895250+00:00"
+  },
+  {
+    "id": 1756548474077,
+    "name": "Mdsahil",
+    "started_at": "2025-08-30T10:07:08.801936+00:00",
+    "score": 0,
+    "total_questions": 100,
+    "correct_word": 0,
+    "correct_pos": 0,
+    "items": [
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Build",
+        "pos": "v.",
+        "meaning": "গঠন করা / বানানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Finish",
+        "pos": "v.",
+        "meaning": "শেষ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Come",
+        "pos": "v.",
+        "meaning": "আসা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Create",
+        "pos": "v.",
+        "meaning": "সৃষ্টি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Meet",
+        "pos": "v.",
+        "meaning": "দেখা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Lucky",
+        "pos": "adj.",
+        "meaning": "ভাগ্যবান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Ambition",
+        "pos": "n.",
+        "meaning": "উচ্চাকাঙ্ক্ষা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Brave",
+        "pos": "adj.",
+        "meaning": "সাহসী",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Answer",
+        "pos": "n./v.",
+        "meaning": "উত্তর / উত্তর দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Drink",
+        "pos": "v./n.",
+        "meaning": "পান করা / পানীয়",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Important",
+        "pos": "adj.",
+        "meaning": "গুরুত্বপূর্ণ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Drive",
+        "pos": "v.",
+        "meaning": "গাড়ি চালানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Say",
+        "pos": "v.",
+        "meaning": "বলা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Begin",
+        "pos": "v.",
+        "meaning": "শুরু করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Play",
+        "pos": "v./n.",
+        "meaning": "খেলা / নাটক",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Lose",
+        "pos": "v.",
+        "meaning": "হারানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Hope",
+        "pos": "n./v.",
+        "meaning": "আশা / আশা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Allow",
+        "pos": "v.",
+        "meaning": "অনুমতি দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Give",
+        "pos": "v.",
+        "meaning": "দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Break",
+        "pos": "v.",
+        "meaning": "ভাঙা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Get",
+        "pos": "v.",
+        "meaning": "পাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Polite",
+        "pos": "adj.",
+        "meaning": "ভদ্র",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Ask",
+        "pos": "v.",
+        "meaning": "জিজ্ঞাসা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Appear",
+        "pos": "v.",
+        "meaning": "প্রকাশিত হওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Read",
+        "pos": "v.",
+        "meaning": "পড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Know",
+        "pos": "v.",
+        "meaning": "জানা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Enjoy",
+        "pos": "v.",
+        "meaning": "উপভোগ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Challenge",
+        "pos": "n.",
+        "meaning": "চ্যালেঞ্জ / বাধা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Put",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Run",
+        "pos": "v.",
+        "meaning": "দৌড়ানো / পরিচালনা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Improve",
+        "pos": "v.",
+        "meaning": "উন্নতি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Act",
+        "pos": "v.",
+        "meaning": "কাজ করা / অভিনয় করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Love",
+        "pos": "n./v.",
+        "meaning": "ভালবাসা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Cause",
+        "pos": "n.",
+        "meaning": "কারণ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Send",
+        "pos": "v.",
+        "meaning": "পাঠানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Solve",
+        "pos": "v.",
+        "meaning": "সমাধান করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Listen",
+        "pos": "v.",
+        "meaning": "শোনা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Argue",
+        "pos": "v.",
+        "meaning": "তর্ক করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Find",
+        "pos": "v.",
+        "meaning": "খুঁজে পাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Add",
+        "pos": "v.",
+        "meaning": "যোগ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Advice",
+        "pos": "n.",
+        "meaning": "উপদেশ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Habit",
+        "pos": "n.",
+        "meaning": "অভ্যাস",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Essential",
+        "pos": "adj.",
+        "meaning": "অত্যাবশ্যক",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Respect",
+        "pos": "n./v.",
+        "meaning": "সম্মান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Knowledge",
+        "pos": "n.",
+        "meaning": "জ্ঞান",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Journey",
+        "pos": "n.",
+        "meaning": "যাত্রা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Compare",
+        "pos": "v.",
+        "meaning": "তুলনা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Educate",
+        "pos": "v.",
+        "meaning": "শিক্ষা দেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Manage",
+        "pos": "v.",
+        "meaning": "পরিচালনা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Clean",
+        "pos": "adj./v.",
+        "meaning": "পরিষ্কার / পরিষ্কার করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Catch",
+        "pos": "v.",
+        "meaning": "ধরা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Discover",
+        "pos": "v.",
+        "meaning": "আবিষ্কার করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Explain",
+        "pos": "v.",
+        "meaning": "ব্যাখ্যা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Help",
+        "pos": "n./v.",
+        "meaning": "সাহায্য / সাহায্য করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Truth",
+        "pos": "n.",
+        "meaning": "সত্য",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Honest",
+        "pos": "adj.",
+        "meaning": "সৎ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Proud",
+        "pos": "adj.",
+        "meaning": "গর্বিত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Effect",
+        "pos": "n.",
+        "meaning": "প্রভাব",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Go",
+        "pos": "v.",
+        "meaning": "যাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Increase",
+        "pos": "v.",
+        "meaning": "বৃদ্ধি করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Experience",
+        "pos": "n.",
+        "meaning": "অভিজ্ঞতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Move",
+        "pos": "v.",
+        "meaning": "নড়াচড়া করা / সরানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Famous",
+        "pos": "adj.",
+        "meaning": "বিখ্যাত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Peace",
+        "pos": "n.",
+        "meaning": "শান্তি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Cut",
+        "pos": "v.",
+        "meaning": "কাটা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Forget",
+        "pos": "v.",
+        "meaning": "ভুলে যাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Culture",
+        "pos": "n.",
+        "meaning": "সংস্কৃতি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Write",
+        "pos": "v.",
+        "meaning": "লেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Learn",
+        "pos": "v.",
+        "meaning": "শেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Hold",
+        "pos": "v.",
+        "meaning": "ধরা / ধরে রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Grow",
+        "pos": "v.",
+        "meaning": "বৃদ্ধি পাওয়া / বাড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Keep",
+        "pos": "v.",
+        "meaning": "রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Decision",
+        "pos": "n.",
+        "meaning": "সিদ্ধান্ত",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Success",
+        "pos": "n.",
+        "meaning": "সফলতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Freedom",
+        "pos": "n.",
+        "meaning": "স্বাধীনতা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Friendship",
+        "pos": "n.",
+        "meaning": "বন্ধুত্ব",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Accept",
+        "pos": "v.",
+        "meaning": "গ্রহণ করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Close",
+        "pos": "v./adj.",
+        "meaning": "বন্ধ করা / নিকটবর্তী",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Leave",
+        "pos": "v.",
+        "meaning": "চলে যাওয়া / ফেলে যাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Necessary",
+        "pos": "adj.",
+        "meaning": "প্রয়োজনীয়",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Laugh",
+        "pos": "v./n.",
+        "meaning": "হাসা / হাসি",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Justice",
+        "pos": "n.",
+        "meaning": "ন্যায়বিচার",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Open",
+        "pos": "v./adj.",
+        "meaning": "খোলা / খোলা রাখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Stand",
+        "pos": "v.",
+        "meaning": "দাঁড়ানো",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Opportunity",
+        "pos": "n.",
+        "meaning": "সুযোগ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Develop",
+        "pos": "v.",
+        "meaning": "উন্নয়ন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Buy",
+        "pos": "v.",
+        "meaning": "কেনা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Choose",
+        "pos": "v.",
+        "meaning": "বেছে নেওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Believe",
+        "pos": "v.",
+        "meaning": "বিশ্বাস করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Fall",
+        "pos": "v.",
+        "meaning": "পড়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Eat",
+        "pos": "v.",
+        "meaning": "খাওয়া",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Arrange",
+        "pos": "v.",
+        "meaning": "ব্যবস্থা করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Benefit",
+        "pos": "n.",
+        "meaning": "উপকার",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "See",
+        "pos": "v.",
+        "meaning": "দেখা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "End",
+        "pos": "n./v.",
+        "meaning": "শেষ / সমাপ্ত করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Achieve",
+        "pos": "v.",
+        "meaning": "অর্জন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Sit",
+        "pos": "v.",
+        "meaning": "বসা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Call",
+        "pos": "v.",
+        "meaning": "ডাকা / ফোন করা",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Comfort",
+        "pos": "n.",
+        "meaning": "আরাম",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      },
+      {
+        "user_word": "",
+        "user_pos": "",
+        "word": "Environment",
+        "pos": "n.",
+        "meaning": "পরিবেশ",
+        "is_word_correct": false,
+        "is_pos_correct": false
+      }
+    ],
+    "timestamp": "2025-08-30T10:07:54.077457+00:00"
+  }
+]

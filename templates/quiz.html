@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-4">
+  <h2>Vocabulary Exam</h2>
+  <p>Time Left: <span id="timer">3:00</span></p>
+
+  <div id="question-box">
+    <h4 id="bangla-word">Loading...</h4>
+
+    <div class="inline-inputs">
+      <label for="english">English:</label>
+      <input type="text" id="english" class="form-control" placeholder="Enter word" autocomplete="off">
+
+      <label for="pos">Part of Speech:</label>
+      <input type="text" id="pos" class="form-control" placeholder="Enter Part of Speech" autocomplete="off">
+    </div>
+
+    <button type="button" id="next-btn" class="btn btn-primary mt-2">Next</button>
+    <button type="button" id="skip-btn" class="btn btn-secondary mt-2">Skip</button>
+  </div>
+
+  <div id="result-box" style="display:none;">
+    <h3>Exam Finished</h3>
+    <p id="result-text"></p>
+    <a href="/" class="btn btn-success">Go Home</a>
+  </div>
+</div>
+
+<script>
+let questions = [];
+let current = 0;
+let answers = {};
+let timeLeft = 3*60;
+let timerInterval;
+let examActive = true;
+
+// Timer
+function startTimer() {
+    timerInterval = setInterval(() => {
+        let min = Math.floor(timeLeft/60);
+        let sec = timeLeft % 60;
+        document.getElementById("timer").textContent = `${min}:${sec.toString().padStart(2,"0")}`;
+        timeLeft--;
+        if(timeLeft < 0) finishExam();
+    }, 1000);
+}
+
+// Load questions
+fetch("/get_questions")
+  .then(res => res.json())
+  .then(data => {
+    questions = data.questions;
+    questions.sort(() => Math.random() - 0.5); // shuffle
+    showQuestion();
+    startTimer();
+  });
+
+// Show question
+function showQuestion() {
+    if(current >= questions.length){
+        finishExam();
+        return;
+    }
+    const q = questions[current];
+    document.getElementById("bangla-word").textContent = q.meaning;
+    document.getElementById("english").value = "";
+    document.getElementById("pos").value = "";
+        
+    // Focus English input automatically
+    document.getElementById("english").focus();
+}
+
+// Save answer
+function saveAnswer() {
+    if(current >= questions.length) return;
+    const q = questions[current];
+    answers[q.word] = {
+        english: document.getElementById("english").value.trim(),
+        pos: document.getElementById("pos").value.trim(),
+        meaning: q.meaning  // optional, just for reference
+    };
+}
+
+
+// Next button
+document.getElementById("next-btn").addEventListener("click", () => {
+    const eng = document.getElementById("english").value.trim();
+    const pos = document.getElementById("pos").value.trim();
+    if(eng === "" && pos === "") {
+        alert("Please fill at least English or POS, or click Skip.");
+        return;
+    }
+    saveAnswer();
+    current++;
+    showQuestion();
+});
+
+// Skip button
+document.getElementById("skip-btn").addEventListener("click", () => {
+    saveAnswer(); // save even if empty
+    current++;
+    showQuestion();
+});
+
+// Finish exam
+function finishExam() {
+    clearInterval(timerInterval);
+    examActive = false;
+    document.getElementById("question-box").style.display = "none";
+
+    fetch("/submit_exam", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({answers: answers})
+    })
+    .then(res => res.json())
+    .then(data => {
+        document.getElementById("result-box").style.display = "block";
+        document.getElementById("result-text").textContent = `You scored ${data.score} out of ${data.total} | Accuracy : ${(data.score / data.total * 100).toFixed(2)}%`;
+    });
+}
+
+// Block leaving/reload
+window.addEventListener("beforeunload", function(e){
+    if(examActive){
+        e.preventDefault();
+        e.returnValue = "Are you sure you want to leave? Progress will be lost!";
+    }
+});
+
+document.addEventListener("click", function(e){
+    if(examActive && e.target.tagName === "A"){
+        e.preventDefault();
+        alert("You cannot leave until exam is finished!");
+    }
+});
+</script>
+
+
+
+
+{% endblock %}
