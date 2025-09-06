@@ -4,7 +4,7 @@
 {% block content %}
 <div class="container mt-4">
   <h2>Exam Result - {{ rec.name }}</h2>
-  <p>Score: {{ rec.score }} / {{ rec.total_questions }}</p>
+  <p>Score: {{ rec.score }} / {{ rec.total_questions }} | Accuracy : <span style="background-color: rgb(255, 179, 0); color:black; padding: 0 10px; font-weight: 700;border-radius: 2px;"> {{ (rec.score / rec.total_questions * 100) | round(2) }}%</span></p>
   <p>Correct Words: {{ rec.correct_word }} | Correct POS: {{ rec.correct_pos }}</p>
 
   <h4>Question Details:</h4>
@@ -24,7 +24,7 @@
       {% for item in rec['items'] %}
       <tr>
         <td>{{ loop.index }}</td>
-        <td style="color: rgb(0, 198, 253);">{{ item.word }}</u></td>
+        <td style="color: rgb(0, 198, 253);">{{ item.word }}<button class="speak_button" onclick="speak('{{ item.word }}')">🔊</button></td>
         <td style="color: rgb(0, 198, 253);">{{ item.pos }}</td>
         <td>{{ item.meaning }}</td>
         <td>{{ item.user_word }}</td>
@@ -47,4 +47,15 @@
 
   <a href="{{ url_for('admin_results') }}" class="btn btn-secondary mt-3">Back to All Results</a>
 </div>
+
+<script>
+    function speak(text) {
+        let utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "en-US";
+        utterance.rate = 0.9;
+        utterance.pitch = 1.0;
+        window.speechSynthesis.speak(utterance);
+    }
+</script>
+
 {% endblock %}

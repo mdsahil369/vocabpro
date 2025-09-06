@@ -368,6 +368,15 @@ def admin_results_delete(attempt_id):
 
 
 
+# This is prectice section for anything Start
+
+# /////////////////////////////////////////////////////////////////////////////////////
+
+# This is prectice section for anything End
+
+
+
+
 
 # ------------- Templates & Static -------------
 @app.route("/favicon.ico")

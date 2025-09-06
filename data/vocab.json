@@ -1,602 +1,98 @@
 [
   {
     "id": 1,
-    "word": "Achieve",
+    "word": "Shatter",
     "pos": "v.",
-    "meaning": "অর্জন করা"
+    "meaning": "চূর্ণবিচূর্ণ করা"
   },
   {
     "id": 2,
-    "word": "Advice",
+    "word": "Slipper",
     "pos": "n.",
-    "meaning": "উপদেশ"
+    "meaning": "জুতা / স্যান্ডেল"
   },
   {
     "id": 3,
-    "word": "Allow",
+    "word": "Chase",
     "pos": "v.",
-    "meaning": "অনুমতি দেওয়া"
+    "meaning": "তাড়া করা"
   },
   {
     "id": 4,
-    "word": "Ambition",
-    "pos": "n.",
-    "meaning": "উচ্চাকাঙ্ক্ষা"
+    "word": "Evolve",
+    "pos": "v.",
+    "meaning": "বিকশিত হওয়া"
   },
   {
     "id": 5,
-    "word": "Appear",
+    "word": "Smash",
     "pos": "v.",
-    "meaning": "প্রকাশিত হওয়া"
+    "meaning": "চূর্ণবিচূর্ণ করা"
   },
   {
     "id": 6,
-    "word": "Argue",
+    "word": "Vouch",
     "pos": "v.",
-    "meaning": "তর্ক করা"
+    "meaning": "সমর্থন করা"
   },
   {
     "id": 7,
-    "word": "Arrange",
-    "pos": "v.",
-    "meaning": "ব্যবস্থা করা"
+    "word": "Unacknowledged",
+    "pos": "adj.",
+    "meaning": "অন্বীকৃত / অস্বীকৃত"
   },
   {
     "id": 8,
-    "word": "Believe",
-    "pos": "v.",
-    "meaning": "বিশ্বাস করা"
+    "word": "Metaphor",
+    "pos": "n.",
+    "meaning": "রূপক"
   },
   {
     "id": 9,
-    "word": "Benefit",
+    "word": "Advancement",
     "pos": "n.",
-    "meaning": "উপকার"
+    "meaning": "অগ্রগতি"
   },
   {
     "id": 10,
-    "word": "Brave",
-    "pos": "adj.",
-    "meaning": "সাহসী"
+    "word": "Hierarchy",
+    "pos": "n.",
+    "meaning": "শ্রেণিবিন্যাস"
   },
   {
     "id": 11,
-    "word": "Cause",
-    "pos": "n.",
-    "meaning": "কারণ"
+    "word": "Patriarchal",
+    "pos": "adj.",
+    "meaning": "পিতৃতান্ত্রিক"
   },
   {
     "id": 12,
-    "word": "Challenge",
-    "pos": "n.",
-    "meaning": "চ্যালেঞ্জ / বাধা"
+    "word": "Fierce",
+    "pos": "adj.",
+    "meaning": "প্রচণ্ড / হিংস্র"
   },
   {
     "id": 13,
-    "word": "Choose",
-    "pos": "v.",
-    "meaning": "বেছে নেওয়া"
+    "word": "Fearless",
+    "pos": "adj.",
+    "meaning": "নির্ভীক"
   },
   {
     "id": 14,
-    "word": "Comfort",
-    "pos": "n.",
-    "meaning": "আরাম"
+    "word": "Flawed",
+    "pos": "adj.",
+    "meaning": "ত্রুটিপূর্ণ / অসম্পূর্ণ"
   },
   {
     "id": 15,
-    "word": "Compare",
-    "pos": "v.",
-    "meaning": "তুলনা করা"
+    "word": "Utterly",
+    "pos": "adv.",
+    "meaning": "সম্পূর্ণরূপে"
   },
   {
     "id": 16,
-    "word": "Create",
-    "pos": "v.",
-    "meaning": "সৃষ্টি করা"
-  },
-  {
-    "id": 17,
-    "word": "Culture",
-    "pos": "n.",
-    "meaning": "সংস্কৃতি"
-  },
-  {
-    "id": 18,
-    "word": "Decision",
-    "pos": "n.",
-    "meaning": "সিদ্ধান্ত"
-  },
-  {
-    "id": 19,
-    "word": "Develop",
-    "pos": "v.",
-    "meaning": "উন্নয়ন করা"
-  },
-  {
-    "id": 20,
-    "word": "Discover",
-    "pos": "v.",
-    "meaning": "আবিষ্কার করা"
-  },
-  {
-    "id": 21,
-    "word": "Educate",
-    "pos": "v.",
-    "meaning": "শিক্ষা দেওয়া"
-  },
-  {
-    "id": 22,
-    "word": "Effect",
-    "pos": "n.",
-    "meaning": "প্রভাব"
-  },
-  {
-    "id": 23,
-    "word": "Enjoy",
-    "pos": "v.",
-    "meaning": "উপভোগ করা"
-  },
-  {
-    "id": 24,
-    "word": "Environment",
-    "pos": "n.",
-    "meaning": "পরিবেশ"
-  },
-  {
-    "id": 25,
-    "word": "Essential",
-    "pos": "adj.",
-    "meaning": "অত্যাবশ্যক"
-  },
-  {
-    "id": 26,
-    "word": "Experience",
-    "pos": "n.",
-    "meaning": "অভিজ্ঞতা"
-  },
-  {
-    "id": 27,
-    "word": "Famous",
-    "pos": "adj.",
-    "meaning": "বিখ্যাত"
-  },
-  {
-    "id": 28,
-    "word": "Freedom",
-    "pos": "n.",
-    "meaning": "স্বাধীনতা"
-  },
-  {
-    "id": 29,
-    "word": "Friendship",
-    "pos": "n.",
-    "meaning": "বন্ধুত্ব"
-  },
-  {
-    "id": 30,
-    "word": "Habit",
-    "pos": "n.",
-    "meaning": "অভ্যাস"
-  },
-  {
-    "id": 31,
-    "word": "Honest",
-    "pos": "adj.",
-    "meaning": "সৎ"
-  },
-  {
-    "id": 32,
-    "word": "Improve",
-    "pos": "v.",
-    "meaning": "উন্নতি করা"
-  },
-  {
-    "id": 33,
-    "word": "Increase",
-    "pos": "v.",
-    "meaning": "বৃদ্ধি করা"
-  },
-  {
-    "id": 34,
-    "word": "Important",
-    "pos": "adj.",
-    "meaning": "গুরুত্বপূর্ণ"
-  },
-  {
-    "id": 35,
-    "word": "Journey",
-    "pos": "n.",
-    "meaning": "যাত্রা"
-  },
-  {
-    "id": 36,
-    "word": "Justice",
-    "pos": "n.",
-    "meaning": "ন্যায়বিচার"
-  },
-  {
-    "id": 37,
-    "word": "Knowledge",
-    "pos": "n.",
-    "meaning": "জ্ঞান"
-  },
-  {
-    "id": 38,
-    "word": "Learn",
-    "pos": "v.",
-    "meaning": "শেখা"
-  },
-  {
-    "id": 39,
-    "word": "Love",
-    "pos": "n./v.",
-    "meaning": "ভালবাসা"
-  },
-  {
-    "id": 40,
-    "word": "Lucky",
-    "pos": "adj.",
-    "meaning": "ভাগ্যবান"
-  },
-  {
-    "id": 41,
-    "word": "Manage",
-    "pos": "v.",
-    "meaning": "পরিচালনা করা"
-  },
-  {
-    "id": 42,
-    "word": "Necessary",
-    "pos": "adj.",
-    "meaning": "প্রয়োজনীয়"
-  },
-  {
-    "id": 43,
-    "word": "Opportunity",
-    "pos": "n.",
-    "meaning": "সুযোগ"
-  },
-  {
-    "id": 44,
-    "word": "Peace",
-    "pos": "n.",
-    "meaning": "শান্তি"
-  },
-  {
-    "id": 45,
-    "word": "Polite",
-    "pos": "adj.",
-    "meaning": "ভদ্র"
-  },
-  {
-    "id": 46,
-    "word": "Proud",
-    "pos": "adj.",
-    "meaning": "গর্বিত"
-  },
-  {
-    "id": 47,
-    "word": "Respect",
-    "pos": "n./v.",
-    "meaning": "সম্মান"
-  },
-  {
-    "id": 48,
-    "word": "Solve",
-    "pos": "v.",
-    "meaning": "সমাধান করা"
-  },
-  {
-    "id": 49,
-    "word": "Success",
-    "pos": "n.",
-    "meaning": "সফলতা"
-  },
-  {
-    "id": 50,
-    "word": "Truth",
-    "pos": "n.",
-    "meaning": "সত্য"
-  },
-  {
-    "id": 51,
-    "word": "Accept",
-    "pos": "v.",
-    "meaning": "গ্রহণ করা"
-  },
-  {
-    "id": 52,
-    "word": "Act",
-    "pos": "v.",
-    "meaning": "কাজ করা / অভিনয় করা"
-  },
-  {
-    "id": 53,
-    "word": "Add",
-    "pos": "v.",
-    "meaning": "যোগ করা"
-  },
-  {
-    "id": 54,
-    "word": "Answer",
-    "pos": "n./v.",
-    "meaning": "উত্তর / উত্তর দেওয়া"
-  },
-  {
-    "id": 55,
-    "word": "Ask",
-    "pos": "v.",
-    "meaning": "জিজ্ঞাসা করা"
-  },
-  {
-    "id": 56,
-    "word": "Begin",
-    "pos": "v.",
-    "meaning": "শুরু করা"
-  },
-  {
-    "id": 57,
-    "word": "Break",
-    "pos": "v.",
-    "meaning": "ভাঙা"
-  },
-  {
-    "id": 58,
-    "word": "Build",
-    "pos": "v.",
-    "meaning": "গঠন করা / বানানো"
-  },
-  {
-    "id": 59,
-    "word": "Buy",
-    "pos": "v.",
-    "meaning": "কেনা"
-  },
-  {
-    "id": 60,
-    "word": "Call",
-    "pos": "v.",
-    "meaning": "ডাকা / ফোন করা"
-  },
-  {
-    "id": 61,
-    "word": "Catch",
-    "pos": "v.",
-    "meaning": "ধরা"
-  },
-  {
-    "id": 62,
-    "word": "Clean",
-    "pos": "adj./v.",
-    "meaning": "পরিষ্কার / পরিষ্কার করা"
-  },
-  {
-    "id": 63,
-    "word": "Close",
-    "pos": "v./adj.",
-    "meaning": "বন্ধ করা / নিকটবর্তী"
-  },
-  {
-    "id": 64,
-    "word": "Come",
-    "pos": "v.",
-    "meaning": "আসা"
-  },
-  {
-    "id": 65,
-    "word": "Cut",
-    "pos": "v.",
-    "meaning": "কাটা"
-  },
-  {
-    "id": 66,
-    "word": "Drink",
-    "pos": "v./n.",
-    "meaning": "পান করা / পানীয়"
-  },
-  {
-    "id": 67,
-    "word": "Drive",
-    "pos": "v.",
-    "meaning": "গাড়ি চালানো"
-  },
-  {
-    "id": 68,
-    "word": "Eat",
-    "pos": "v.",
-    "meaning": "খাওয়া"
-  },
-  {
-    "id": 69,
-    "word": "End",
-    "pos": "n./v.",
-    "meaning": "শেষ / সমাপ্ত করা"
-  },
-  {
-    "id": 70,
-    "word": "Explain",
-    "pos": "v.",
-    "meaning": "ব্যাখ্যা করা"
-  },
-  {
-    "id": 71,
-    "word": "Fall",
-    "pos": "v.",
-    "meaning": "পড়া"
-  },
-  {
-    "id": 72,
-    "word": "Find",
-    "pos": "v.",
-    "meaning": "খুঁজে পাওয়া"
-  },
-  {
-    "id": 73,
-    "word": "Finish",
-    "pos": "v.",
-    "meaning": "শেষ করা"
-  },
-  {
-    "id": 74,
-    "word": "Forget",
-    "pos": "v.",
-    "meaning": "ভুলে যাওয়া"
-  },
-  {
-    "id": 75,
-    "word": "Get",
-    "pos": "v.",
-    "meaning": "পাওয়া"
-  },
-  {
-    "id": 76,
-    "word": "Give",
-    "pos": "v.",
-    "meaning": "দেওয়া"
-  },
-  {
-    "id": 77,
-    "word": "Go",
-    "pos": "v.",
-    "meaning": "যাওয়া"
-  },
-  {
-    "id": 78,
-    "word": "Grow",
-    "pos": "v.",
-    "meaning": "বৃদ্ধি পাওয়া / বাড়া"
-  },
-  {
-    "id": 79,
-    "word": "Help",
-    "pos": "n./v.",
-    "meaning": "সাহায্য / সাহায্য করা"
-  },
-  {
-    "id": 80,
-    "word": "Hold",
-    "pos": "v.",
-    "meaning": "ধরা / ধরে রাখা"
-  },
-  {
-    "id": 81,
-    "word": "Hope",
-    "pos": "n./v.",
-    "meaning": "আশা / আশা করা"
-  },
-  {
-    "id": 82,
-    "word": "Keep",
-    "pos": "v.",
-    "meaning": "রাখা"
-  },
-  {
-    "id": 83,
-    "word": "Know",
-    "pos": "v.",
-    "meaning": "জানা"
-  },
-  {
-    "id": 84,
-    "word": "Laugh",
-    "pos": "v./n.",
-    "meaning": "হাসা / হাসি"
-  },
-  {
-    "id": 85,
-    "word": "Leave",
-    "pos": "v.",
-    "meaning": "চলে যাওয়া / ফেলে যাওয়া"
-  },
-  {
-    "id": 86,
-    "word": "Listen",
-    "pos": "v.",
-    "meaning": "শোনা"
-  },
-  {
-    "id": 87,
-    "word": "Lose",
-    "pos": "v.",
-    "meaning": "হারানো"
-  },
-  {
-    "id": 88,
-    "word": "Meet",
-    "pos": "v.",
-    "meaning": "দেখা করা"
-  },
-  {
-    "id": 89,
-    "word": "Move",
-    "pos": "v.",
-    "meaning": "নড়াচড়া করা / সরানো"
-  },
-  {
-    "id": 90,
-    "word": "Open",
-    "pos": "v./adj.",
-    "meaning": "খোলা / খোলা রাখা"
-  },
-  {
-    "id": 91,
-    "word": "Play",
-    "pos": "v./n.",
-    "meaning": "খেলা / নাটক"
-  },
-  {
-    "id": 92,
-    "word": "Put",
-    "pos": "v.",
-    "meaning": "রাখা"
-  },
-  {
-    "id": 93,
-    "word": "Read",
-    "pos": "v.",
-    "meaning": "পড়া"
-  },
-  {
-    "id": 94,
-    "word": "Run",
-    "pos": "v.",
-    "meaning": "দৌড়ানো / পরিচালনা করা"
-  },
-  {
-    "id": 95,
-    "word": "Say",
-    "pos": "v.",
-    "meaning": "বলা"
-  },
-  {
-    "id": 96,
-    "word": "See",
-    "pos": "v.",
-    "meaning": "দেখা"
-  },
-  {
-    "id": 97,
-    "word": "Send",
-    "pos": "v.",
-    "meaning": "পাঠানো"
-  },
-  {
-    "id": 98,
-    "word": "Sit",
-    "pos": "v.",
-    "meaning": "বসা"
-  },
-  {
-    "id": 99,
-    "word": "Stand",
-    "pos": "v.",
-    "meaning": "দাঁড়ানো"
-  },
-  {
-    "id": 100,
-    "word": "Write",
-    "pos": "v.",
-    "meaning": "লেখা"
+    "word": "Slightly",
+    "pos": "adv.",
+    "meaning": "সামান্য"
   }
 ]
